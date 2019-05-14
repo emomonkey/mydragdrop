@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/emomonkey/mydragdrop/static/css/main.2cce8147.chunk.css",
+    "main.js": "/emomonkey/mydragdrop/static/js/main.ec2a7003.chunk.js",
+    "main.js.map": "/emomonkey/mydragdrop/static/js/main.ec2a7003.chunk.js.map",
+    "runtime~main.js": "/emomonkey/mydragdrop/static/js/runtime~main.dbd1378e.js",
+    "runtime~main.js.map": "/emomonkey/mydragdrop/static/js/runtime~main.dbd1378e.js.map",
+    "static/js/2.b41502e9.chunk.js": "/emomonkey/mydragdrop/static/js/2.b41502e9.chunk.js",
+    "static/js/2.b41502e9.chunk.js.map": "/emomonkey/mydragdrop/static/js/2.b41502e9.chunk.js.map",
+    "index.html": "/emomonkey/mydragdrop/index.html",
+    "precache-manifest.0d3283f8415f65e7b2546cd86dd139a6.js": "/emomonkey/mydragdrop/precache-manifest.0d3283f8415f65e7b2546cd86dd139a6.js",
+    "service-worker.js": "/emomonkey/mydragdrop/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/emomonkey/mydragdrop/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "/emomonkey/mydragdrop/static/media/logo.5d5d9eef.svg"
+  }
+}
